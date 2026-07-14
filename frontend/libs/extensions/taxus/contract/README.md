@@ -1,3 +1,4 @@
 # @sneat/extension-taxus-contract
 
-Public Taxus DTOs, contexts, service interfaces, and dependency-injection tokens.
+Public Taxus DTOs, contexts, service interfaces, and dependency-injection
+tokens. Tax calculation and UI implementations remain in the private Taxus repo.
